@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"Controller"},{"p":"model","l":"MapZone"},{"p":"model","l":"Monster"},{"p":"model","l":"Obstacle"},{"p":"model","l":"Player"},{"p":"ui","l":"QuestingHeroesUI"},{"p":"model","l":"Race"},{"p":"model","l":"Role"}];updateSearchResults();
